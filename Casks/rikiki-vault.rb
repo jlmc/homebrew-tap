@@ -8,5 +8,5 @@ cask "rikiki-vault" do
   desc "Secure personal vault"
   homepage "https://github.com/jlmc/rikiki-vault"
 
-  app "Rikiki Vault.app"
+  app "rikiki-vault-gui.app"
 end
